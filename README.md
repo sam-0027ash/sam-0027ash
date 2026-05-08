@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam-0027ash
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python, java and html
+- 👀 I’m interested in learning coding in Web Development
+- 🌱 I’m currently learning JavaScript, CSS, HTML and Python
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "Dreamt" is the only English word that ends in the letters "mt".
 
